@@ -1,0 +1,43 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "QuizzApp/1.0.0": {
+        "runtime": {
+          "QuizzApp.dll": {}
+        }
+      },
+      "Quizz Services/1.0.0": {
+        "runtime": {
+          "Quizz Services.dll": {}
+        }
+      },
+      "Student Services/1.0.0": {
+        "runtime": {
+          "Student Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuizzApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Quizz Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Student Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

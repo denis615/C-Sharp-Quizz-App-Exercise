@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "56xAFKD2L16Z2nPfpl2zazf4chsCy4bCC249+w1mTAuSFy4pO5Ieo7YNQRgHKXypbYB5XBWVdB8iRkqFb0JSTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Broj 18\\source\\repos\\QuizzApp\\Quizz Services\\Quizz Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Broj 18\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Broj 18\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Broj 18\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Broj 18\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Broj 18\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Broj 18\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Broj 18\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
